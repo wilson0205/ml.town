@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About ML.town
-permalink: /about/
+permalink: "/about/"
+layout: page
 tags: about
 ---
 
